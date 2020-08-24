@@ -24,7 +24,7 @@ module.exports = {
       options: {
         name: `gatsby-starter-default`,
         short_name: `starter`,
-        start_url: `/`,
+        start_url: `/beta-rehashfm/`,
         background_color: `#353e4a`,
         theme_color: `#353e4a`,
         display: `minimal-ui`,
