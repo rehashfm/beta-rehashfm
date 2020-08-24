@@ -5,6 +5,7 @@
  */
 
 module.exports = {
+  pathPrefix: `/beta-rehashfm`,
   siteMetadata: {
     title: 'MDX WP',
     description: 'It is a WP with MDX blog ',
@@ -24,7 +25,7 @@ module.exports = {
       options: {
         name: `gatsby-starter-default`,
         short_name: `starter`,
-        start_url: `/beta-rehashfm/`,
+        start_url: `/`,
         background_color: `#353e4a`,
         theme_color: `#353e4a`,
         display: `minimal-ui`,
