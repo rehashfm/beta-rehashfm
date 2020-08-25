@@ -7,14 +7,14 @@
 module.exports = {
   pathPrefix: `/beta-rehashfm`,
   siteMetadata: {
-    title: 'MDX WP',
-    description: 'It is a WP with MDX blog ',
+    title: 'rehash.fm',
+    description: 'catch up the latest tech news by listening rehash.fm',
     keywords: ['GatsbyJs', 'React', 'theme-ui'],
     siteURL: 'https://gatsby-starter-mountain.netlify.com', // No trailing slash allowed!
     siteImage: '/preview.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@CArtezan',
+    twitterUsername: '@rehashfm',
     author: {
-      name: 'Cesar Artezan'
+      name: 'rehash.fm'
     }
   },
   plugins: [
